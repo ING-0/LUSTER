@@ -5,7 +5,7 @@
 
 ---
 
-### 标准名:
+### 标准名
 
 * Calale Katharós ***- English***
 * 卡拉蕾·凯瑟洛斯 ***- 中文***
@@ -15,7 +15,7 @@
 
 ---
 
-### 姓名全称：
+### 姓名全称
 
 * Calale Innocence Budushcheye Viaggio Amour Yesinstvo Slozhnyy Iume Schönheit Okeanós Luci Arkóvia Katharós ***- English***
 * 卡拉蕾·伊诺森斯·布杜什切耶·维亚乔·阿穆尔·耶辛斯特沃·斯洛日内·优梅·雪瑙特·欧刻亚诺斯·露琪·阿尔科维娅·凯瑟洛斯 ***- 中文***
@@ -40,22 +40,8 @@
 
 ---
 
-### 姓名缩写：
+### 姓名缩写
 
 01. C.A. Katharós ***- 最正式、最常用的***
 01. C.O.L.A. Katharós
-
----
-
-### 代码：
-
-* NóvaCosmós Code: 
-	***LETTER***
-
-		c...
-	**KEY:** *aiueor-cskrt*
-
-	***NUMBER***
-	
-		2...
 	**KEY:** *314159-26535*
