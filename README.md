@@ -32,5 +32,6 @@
 
 ## 一下是可以展示的内容
 [世界观概览 · 豪华整理包](https://github.com/ING-0/LUSTER/blob/main/%E4%B8%96%E7%95%8C%E8%A7%82%E6%A6%82%E8%A7%88%20%C2%B7%20%E8%B1%AA%E5%8D%8E%E6%95%B4%E7%90%86%E5%8C%85.md)
+[魔法](https://github.com/ING-0/LUSTER/blob/main/%E9%AD%94%E6%B3%95.md)
 [NKI文献](https://github.com/ING-0/LUSTER/blob/main/NKI%E6%96%87%E7%8C%AE.md)
 [NóvaKósmos官方节日](https://github.com/ING-0/LUSTER/blob/main/N%C3%B3vaK%C3%B3smos%E5%AE%98%E6%96%B9%E8%8A%82%E6%97%A5.md)
